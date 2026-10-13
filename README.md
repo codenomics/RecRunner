@@ -6,20 +6,15 @@
 
 ## Download
 
-**Latest version: v1.0** (Oct 13, 2026)
+**Latest version: v1.1** (Oct 13, 2026)
 
-- [RecRunner_v1.0_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.0/RecRunner_v1.0_no-install.zip) - 169 KB
-- [RecRunner_v1.0_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.0/RecRunner_v1.0_Setup.exe) - 585 KB
-- [RecRunner_v1.0_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.0/RecRunner_v1.0_source.zip) - 170 KB
+- [RecRunner_v1.1_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_no-install.zip) - 170 KB
+- [RecRunner_v1.1_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_Setup.exe) - 586 KB
+- [RecRunner_v1.1_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_source.zip) - 171 KB
 
-What's new in v1.0:
+What's new in v1.1:
 
-- First release: records just your game's window, so notifications and other windows never show up
-- Tap F7 to start or stop a recording, hold F7 to save the last few minutes as a clip
-- Records by itself when one of your games opens (can be switched off overall or per game)
-- Pick which sounds are recorded: the game, your microphone and apps like Discord, each on its own track
-- Built-in editor: step through frame by frame, pick the start and end, choose sound tracks and save a clip
-- 15 looks to choose from, themed pop-up notices, drive space warnings and auto-delete of old recordings
+- Fixed recordings showing only part of the screen when the game changes its window size after it opens
 
 Older versions are on the [Releases page](https://github.com/codenomics/RecRunner/releases).
 
