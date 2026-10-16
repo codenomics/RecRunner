@@ -1,20 +1,24 @@
 # RecRunner
 
+Records your games, nothing else. It waits quietly by the clock. While one of your games is running, tap F7 to start and stop a recording, or hold F7 to save the last few minutes as a clip. Recording also starts by itself when one of your games opens (you can switch that off overall or per game). To trim a recording, hover it in the list and click Edit: step through it frame by frame, pick the start and end, choose which sound tracks to keep and save it as a clip (the window can be resized or maximized, and the preview plays with sound). It records just the game's own window - notifications, popups and other windows are not recorded, and your other monitors never are. Only the sounds you pick are recorded: the game's own sound, plus the microphone and apps (like Discord or Spotify) you add in Settings. Settings also has 15 looks to choose from and a switch for the pop-up notices.
+
+It uses your graphics card's own video chip (NVIDIA, AMD or Intel) so games don't slow down, and falls back to the processor if it has to.
+
 > This application is built by AI. I made this for myself and I'm uploading it to GitHub for backup and to share in case anyone can get any use out of it. It's pretty specific to my setup and my needs, but if you can get any use out of it, then enjoy.
 >
 > Use at your own risk. I offer no warranty or guarantees for this software.
 
 ## Download
 
-**Latest version: v1.1** (Oct 13, 2026)
+**Latest version: v1.2** (Oct 16, 2026)
 
-- [RecRunner_v1.1_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_no-install.zip) - 170 KB
-- [RecRunner_v1.1_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_Setup.exe) - 586 KB
-- [RecRunner_v1.1_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.1/RecRunner_v1.1_source.zip) - 171 KB
+- [RecRunner_v1.2_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_no-install.zip) - 170 KB
+- [RecRunner_v1.2_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_Setup.exe) - 586 KB
+- [RecRunner_v1.2_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_source.zip) - 171 KB
 
-What's new in v1.1:
+What's new in v1.2:
 
-- Fixed recordings showing only part of the screen when the game changes its window size after it opens
+- Fixed a recording stopping by itself a few seconds after a game opens (when the game changes its window size)
 
 Older versions are on the [Releases page](https://github.com/codenomics/RecRunner/releases).
 
@@ -41,25 +45,6 @@ Want to see how it works, or build it yourself? Download the file ending in `_so
 ## More details
 
 ```
-RECRUNNER
-=========
-
-Records your games, nothing else. It waits quietly by the clock. While one
-of your games is running, tap F7 to start and stop a recording, or hold F7
-to save the last few minutes as a clip. Recording also starts by itself when
-one of your games opens (you can switch that off overall or per game). To trim a
-recording, hover it in the list and click Edit: step through it frame by frame,
-pick the start and end, choose which sound tracks to keep and save it as a clip (the window can be resized or maximized, and the preview plays with sound). It records just the game's own
-window - notifications, popups and other windows are not
-recorded, and your other monitors never are. Only the sounds you pick are
-recorded: the game's own sound, plus the microphone and apps (like Discord or
-Spotify) you add in Settings. Settings also has 15 looks to choose from and a switch for the pop-up
-notices.
-
-It uses your graphics card's own video chip (NVIDIA, AMD or Intel) so games
-don't slow down, and falls back to the processor if it has to.
-
-
 GETTING STARTED
 ---------------
 Pick one. Both give you the same app.
