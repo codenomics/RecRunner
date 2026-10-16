@@ -10,16 +10,16 @@ It uses your graphics card's own video chip (NVIDIA, AMD or Intel) so games don'
 
 ## Download
 
-**Latest version: v1.3** (Oct 16, 2026)
+**Latest version: v1.4** (Oct 16, 2026)
 
-- [RecRunner_v1.3_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_no-install.zip) - 170 KB
-- [RecRunner_v1.3_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_Setup.exe) - 586 KB
-- [RecRunner_v1.3_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_source.zip) - 171 KB
+- [RecRunner_v1.4_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.4/RecRunner_v1.4_no-install.zip) - 171 KB
+- [RecRunner_v1.4_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.4/RecRunner_v1.4_Setup.exe) - 586 KB
+- [RecRunner_v1.4_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.4/RecRunner_v1.4_source.zip) - 172 KB
 
-What's new in v1.3:
+What's new in v1.4:
 
-- New Fixed bitrate choice under Quality, so you can set the exact Mbit/s (2 to 150)
-- Better picture on computers without a usable graphics card encoder: the processor encoder is now used before Windows' basic built-in one
+- Pop-up notices can no longer take the focus away from a game
+- With pop-ups turned off, holding the clip key now plays a short sound so you know it worked
 
 Older versions are on the [Releases page](https://github.com/codenomics/RecRunner/releases).
 
