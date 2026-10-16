@@ -10,15 +10,16 @@ It uses your graphics card's own video chip (NVIDIA, AMD or Intel) so games don'
 
 ## Download
 
-**Latest version: v1.2** (Oct 16, 2026)
+**Latest version: v1.3** (Oct 16, 2026)
 
-- [RecRunner_v1.2_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_no-install.zip) - 170 KB
-- [RecRunner_v1.2_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_Setup.exe) - 586 KB
-- [RecRunner_v1.2_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.2/RecRunner_v1.2_source.zip) - 171 KB
+- [RecRunner_v1.3_no-install.zip](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_no-install.zip) - 170 KB
+- [RecRunner_v1.3_Setup.exe](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_Setup.exe) - 586 KB
+- [RecRunner_v1.3_source.zip](https://github.com/codenomics/RecRunner/releases/download/v1.3/RecRunner_v1.3_source.zip) - 171 KB
 
-What's new in v1.2:
+What's new in v1.3:
 
-- Fixed a recording stopping by itself a few seconds after a game opens (when the game changes its window size)
+- New Fixed bitrate choice under Quality, so you can set the exact Mbit/s (2 to 150)
+- Better picture on computers without a usable graphics card encoder: the processor encoder is now used before Windows' basic built-in one
 
 Older versions are on the [Releases page](https://github.com/codenomics/RecRunner/releases).
 
